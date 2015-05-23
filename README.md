@@ -15,15 +15,23 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 
 ## Program:
 
-#### 1. AKTUALNA SITUACIA
+#### 1. INTRO
 
 * nemam testy, s kazdym budem osobne riesit problemy ale nahlas aby sa problemy neopakovali - TEAM VIEWER
 * poviem info o tom o com bude prez a akou formou, ulohy pomedzi
 * obsah co bude odprezentujem
 * **Uloha:** checkout projekt s tagom 1
-* bordel/vela chyb uz len v zaciatocnej verzii , napr na download extLib no nepouzivaju ale CND WTF tagy
 
-#### 2. ZAVEDENIE projektu
+  * ```
+  git clone https://github.com/GryfonN/ERNI_CodeBeerSession.git  
+  ```  
+
+  * ```
+  git checkout v1
+  ```
+
+#### 2. AKTUALNA SITUACIA + INIT
+* bordel/vela chyb uz len v zaciatocnej verzii , napr na download extLib no nepouzivaju ale CND WTF tagy
 * NPM init - ale len ako ze projekt spravime a install bower dame ze ulozime do dependencies
 * BOWER - preco ako funguje, aky rozdiel medzi dependency bower vs npm, preoc je dolezite mat pohromade zavislosti
 * [Preco nie CND](http://www.sitepoint.com/7-reasons-not-to-use-a-cdn/)
