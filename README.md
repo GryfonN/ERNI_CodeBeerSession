@@ -21,10 +21,12 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 * poviem info o tom o com bude prez a akou formou, ulohy pomedzi
 * obsah co bude odprezentujem
 * **Uloha:** checkout projekt s tagom 1
+* bordel/vela chyb uz len v zaciatocnej verzii , napr na download extLib no nepouzivaju ale CND WTF tagy
 
 #### 2. ZAVEDENIE projektu
 * NPM init - ale len ako ze projekt spravime a install bower dame ze ulozime do dependencies
 * BOWER - preco ako funguje, aky rozdiel medzi dependency bower vs npm, preoc je dolezite mat pohromade zavislosti
+* [Preco nie CND](http://www.sitepoint.com/7-reasons-not-to-use-a-cdn/)
 * **Uloha:** prerobit dependency kt sa daju cez bower
 
 #### 3. GRUNT =?= GULP 
@@ -39,4 +41,7 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 
 
 #### 4. GULP-Inject + Bower
+* wiredeep gulp plugin (exclude pre respond)
+* **Uloha:** normal inject veci  wired bower js + css
+* **Uloha:** chcem special ie9 'html5shiv' a 'respond'
 
