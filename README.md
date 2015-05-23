@@ -33,6 +33,7 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 #### 2. AKTUALNA SITUACIA + INIT
 * bordel/vela chyb uz len v zaciatocnej verzii , napr na download extLib no nepouzivaju ale CND WTF tagy
 * NPM init - ale len ako ze projekt spravime a install bower dame ze ulozime do dependencies
+* **Uloha:** npm init skusit npm install -g jshint , http-proxy
 * BOWER - preco ako funguje, aky rozdiel medzi dependency bower vs npm, preoc je dolezite mat pohromade zavislosti
 * [Preco nie CND](http://www.sitepoint.com/7-reasons-not-to-use-a-cdn/)
 * **Uloha:** prerobit dependency kt sa daju cez bower
