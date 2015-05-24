@@ -7,6 +7,9 @@ Repository with presentation and example project for Code Beer Session in ERNI t
 The main task is to present the environment tools and processes for JavaScript development, as example we have changed 
 the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-theme).
 
+## Prezentacia:
+[link](http://slides.com/gryfonn/erni_codebeersession/fullscreen)
+
 
 ## Poziadavky:
 - NodeJS v0.12.0+ [(download)](https://nodejs.org/download/)
