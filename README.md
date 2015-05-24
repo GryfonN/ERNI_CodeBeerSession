@@ -1,4 +1,4 @@
-**TODO** pridat tagy za ulohy
+**TODO** themify  a font awesome maju fonty inak vedla seba ulozene treba custom pracu
 
 
 

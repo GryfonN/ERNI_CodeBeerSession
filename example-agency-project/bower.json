@@ -1,0 +1,19 @@
+{
+  "name": "example-agency-project",
+  "version": "0.0.0",
+  "homepage": "https://github.com/GryfonN/ERNI_CodeBeerSession",
+  "authors": [
+    "GryfonN <petranikpeter@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "2.1.4",
+    "jquery.cookie": "~1.4.1",
+    "jquery.scrollTo": "~2.1.0",
+    "jquery.sticky": "~1.0.0",
+    "themify-icons": "~0.1.0",
+    "fontawesome": "~4.3.0",
+    "font-awesome-animation": "~0.0.6"
+  }
+}
