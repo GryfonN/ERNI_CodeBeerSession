@@ -36,7 +36,7 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 * **Uloha:** npm init skusit npm install -g jshint , http-proxy
 * BOWER - preco ako funguje, aky rozdiel medzi dependency bower vs npm, preoc je dolezite mat pohromade zavislosti
 * [Preco nie CND](http://www.sitepoint.com/7-reasons-not-to-use-a-cdn/)
-* **Uloha:** prerobit dependency kt sa daju cez bower
+* **Uloha:** bower hratky prerobit dependency kt sa daju cez bower
 
 #### 3. GRUNT =?= GULP 
 * co to je a vlastne na co automaticky
