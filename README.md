@@ -52,5 +52,6 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 #### 4. GULP-Inject + Bower
 * wiredeep gulp plugin (exclude pre respond)
 * **Uloha:** normal inject veci  wired bower js + css
-* **Uloha:** chcem special ie9 'html5shiv' a 'respond'
+* **Uloha:** chcem special ie9 'html5shiv' a 'respond', kedze to v povodnom aj bolo
+
 
