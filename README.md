@@ -45,14 +45,17 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 * co to je a vlastne na co automaticky
 * roszdiel gulp vs grunt dva screeny cfg vs js 
 * vyhody nevyhody gulp preco ho lubim
-* **Uloha:** hello gulp, ako install gulp global/lokal viete Gulp
+
   
+  
+#### 4. Gulp API
 * ako sa hladaju pluginy  
 * je to len o pluginoch
+* **Uloha:** hello gulp, ako install gulp global/lokal viete Gulp
 * **Uloha:** JSHint , ako
 
 
-#### 4. GULP-Inject + Bower
+#### 5. GULP-Inject + Bower
 * wiredeep gulp plugin (exclude pre respond)
 * **Uloha:** normal inject veci  wired bower js + css
 * **Uloha:** chcem special ie9 'html5shiv' a 'respond', kedze to v povodnom aj bolo
