@@ -11,6 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.8.11",
-    "http-server": "^0.8.0"
+    "gulp-jshint": "^1.11.0",
+    "gulp-size": "^1.2.1",
+    "http-server": "^0.8.0",
+    "jshint-stylish": "^2.0.0"
   }
 }
