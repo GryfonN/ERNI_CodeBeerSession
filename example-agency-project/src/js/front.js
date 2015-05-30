@@ -107,7 +107,7 @@ $.fn.alignElementsSameHeight = function () {
         });
         children.innerHeight(maxHeight);
     });
-}
+};
 
 $(window).load(function () {
 
