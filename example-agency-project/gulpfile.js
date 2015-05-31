@@ -39,7 +39,7 @@ gulp.task('inject', function () {
         .pipe(gulp.dest('./.tmp/serve'));
 });
 
-gulp.task('serve', ['inject'], function () {
+gulp.task('serve', ['inject', 'watch'], function () {
     browserSync.instance = browserSync.init({
         startPath: '/',
         server: {
@@ -54,3 +54,23 @@ gulp.task('serve', ['inject'], function () {
         browser: 'default'
     });
 });
+
+
+gulp.task('watch', function () {
+    gulp.watch([
+        './src/css/**/*.css',
+        './src/js/**/*.js'
+    ], function (event) {
+        browserSync.reload(event.path);
+    });
+
+    gulp.watch([
+        './src/index.html'
+    ], function (event) {
+        gulp.start('inject');
+        setTimeout(function () {
+            browserSync.reload(event.path);
+        }, 300);
+    });
+});
+
