@@ -4,6 +4,7 @@ var jshint = require('gulp-jshint');
 var size = require('gulp-size');
 var wiredep = require('wiredep').stream;
 var gulpInject = require('gulp-inject');
+var browserSync = require('browser-sync');
 
 var optionsWiredep = {
     directory: 'bower_components'
@@ -36,4 +37,20 @@ gulp.task('inject', function () {
         .pipe(wiredep(optionsWiredep))
         .pipe(gulpInject(gulp.src(injectSources, {read: false}), optionsInject))
         .pipe(gulp.dest('./.tmp/serve'));
+});
+
+gulp.task('serve', ['inject'], function () {
+    browserSync.instance = browserSync.init({
+        startPath: '/',
+        server: {
+            baseDir: [
+                '.tmp/serve',
+                'src'
+            ],
+            routes: {
+                '/bower_components': 'bower_components'
+            }
+        },
+        browser: 'default'
+    });
 });
