@@ -1,7 +1,3 @@
-**TODO** themify  a font awesome maju fonty inak vedla seba ulozene treba custom pracu
-
-
-
 # ERNI_CodeBeerSession
 Repository with presentation and example project for Code Beer Session in ERNI that I was leading.
 The main task is to present the environment tools and processes for JavaScript development, as example we have changed 
@@ -47,7 +43,6 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 * vyhody nevyhody gulp preco ho lubim
 
   
-  
 #### 4. Gulp API
 * ako sa hladaju pluginy  
 * je to len o pluginoch
@@ -61,11 +56,14 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 * ukazka mojho projektu angular sort / IE 9 custom tag 
 * **Uloha:** uloha sled taskov vyvetlit
 
+
 #### 6. Browser sync
+* Co to je
+* **Uloha:** obycajny serve
+* **Uloha:** serve ale plus watch task
 
 
-#### 7. Modularnost Ukazka
-
-
-#### 8. Yeoman
+#### 7. Yeoman + ukazka portfolia mozna
+* co je a ako sa s nim robi
+* **Uloha:** generator-gulp-angular projekt prezriet
 
