@@ -56,8 +56,9 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 
 
 #### 5. GULP-Inject + Bower
-* wiredeep gulp plugin (exclude pre respond)
+* wiredeep gulp plugin
 * **Uloha:** normal inject veci  wired bower js + css
+* ukazka mojho projektu angular sort / IE 9 custom tag 
 * **Uloha:** chcem special ie9 'html5shiv' a 'respond', kedze to v povodnom aj bolo
 
 
