@@ -59,6 +59,13 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 * wiredeep gulp plugin
 * **Uloha:** normal inject veci  wired bower js + css
 * ukazka mojho projektu angular sort / IE 9 custom tag 
-* **Uloha:** chcem special ie9 'html5shiv' a 'respond', kedze to v povodnom aj bolo
+* **Uloha:** uloha sled taskov vyvetlit
 
+#### 6. Browser sync
+
+
+#### 7. Modularnost Ukazka
+
+
+#### 8. Yeoman
 
