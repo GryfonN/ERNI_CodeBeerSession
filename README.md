@@ -1,7 +1,10 @@
 # ERNI_CodeBeerSession
+
 Repository with presentation and example project for Code Beer Session in ERNI that I was leading.
-The main task is to present the environment tools and processes for JavaScript development, as example we have changed 
+The main task is to present the environment tools and processes for JavaScript development, as example we have changed
 the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-theme).
+
+![Preview image](/readme_preview.png?raw=true "Preview image")
 
 ## Prezentacia:
 [link](http://slides.com/gryfonn/erni_codebeersession/fullscreen)
@@ -37,12 +40,12 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 * [Preco nie CND](http://www.sitepoint.com/7-reasons-not-to-use-a-cdn/)
 * **Uloha:** bower hratky prerobit dependency kt sa daju cez bower
 
-#### 3. GRUNT =?= GULP 
+#### 3. GRUNT =?= GULP
 * co to je a vlastne na co automaticky
-* roszdiel gulp vs grunt dva screeny cfg vs js 
+* roszdiel gulp vs grunt dva screeny cfg vs js
 * vyhody nevyhody gulp preco ho lubim
 
-  
+
 #### 4. Gulp API
 * ako sa hladaju pluginy  
 * je to len o pluginoch
@@ -53,7 +56,7 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 #### 5. GULP-Inject + Bower
 * wiredeep gulp plugin
 * **Uloha:** normal inject veci  wired bower js + css
-* ukazka mojho projektu angular sort / IE 9 custom tag 
+* ukazka mojho projektu angular sort / IE 9 custom tag
 * **Uloha:** uloha sled taskov vyvetlit
 
 
@@ -66,4 +69,3 @@ the [Agency Bootstrapious Template](http://bootstrapious.com/p/agency-portfolio-
 #### 7. Yeoman + ukazka portfolia mozna
 * co je a ako sa s nim robi
 * **Uloha:** generator-gulp-angular projekt prezriet
-
